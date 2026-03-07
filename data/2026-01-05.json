@@ -133,28 +133,6 @@
         "surviveRatio": 90.66852367688023
     },
     {
-        "appliedCrowdControlPerMinute": 0.0,
-        "blockPerMinute": 3.1578947368421053,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.625,
-        "deathRatio": 100.0,
-        "downPerMinute": 0.625,
-        "durationInCombat": 19,
-        "evadePerMinute": 25.263157894736842,
-        "id": "浪浪丶.2918",
-        "opScore": 0.0,
-        "profession": "诗人",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 15.587,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 0.0,
-        "score": 15.947368421052632,
-        "stabilityPerSecond": 0.0,
-        "surviveRatio": 19.791666666666668
-    },
-    {
         "appliedCrowdControlPerMinute": 2.4122807017543857,
         "blockPerMinute": 41.09649122807017,
         "cleansesInPerMinute": 35.921052631578945,

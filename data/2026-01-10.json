@@ -22,28 +22,6 @@
         "surviveRatio": 92.95061207260447
     },
     {
-        "appliedCrowdControlPerMinute": 2.857142857142857,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "downPerMinute": 0.0,
-        "durationInCombat": 21,
-        "evadePerMinute": 0.0,
-        "id": "开心小粽子.9021",
-        "opScore": 0.0,
-        "profession": "时空",
-        "quicknessPerSecond": 0.4091619047619047,
-        "regenerationUptime": 76.4108,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 5.714285714285714,
-        "riteUptime": 17.0026,
-        "score": 52.25809523809524,
-        "stabilityPerSecond": 0.33871428571428575,
-        "surviveRatio": 4.666666666666667
-    },
-    {
         "appliedCrowdControlPerMinute": 0.0,
         "blockPerMinute": 29.72972972972973,
         "cleansesInPerMinute": 2.4324324324324325,
@@ -64,28 +42,6 @@
         "score": 43.37636896613928,
         "stabilityPerSecond": 0.1354954954954955,
         "surviveRatio": 39.2226148409894
-    },
-    {
-        "appliedCrowdControlPerMinute": 0.0,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "downPerMinute": 0.0,
-        "durationInCombat": 1,
-        "evadePerMinute": 0.0,
-        "id": "Suver.3791",
-        "opScore": 0.0,
-        "profession": "时空",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 72.8817,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 16.8902,
-        "score": 40.0,
-        "stabilityPerSecond": 0.0,
-        "surviveRatio": 1.3157894736842106
     },
     {
         "appliedCrowdControlPerMinute": 0.5687203791469194,
@@ -1075,19 +1031,6 @@
         "profession": "契灵",
         "score": 50.0,
         "surviveRatio": 98.94736842105263
-    },
-    {
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "dmgPerSecond": 0.0,
-        "downPerMinute": 0.0,
-        "downsPerMinute": 0.0,
-        "durationInCombat": 1,
-        "id": "李献计.6703",
-        "opScore": 0.0,
-        "profession": "兔头",
-        "score": 50.0,
-        "surviveRatio": 0.49019607843137253
     },
     {
         "deathPerMinute": 0.0,

@@ -154,28 +154,6 @@
         "surviveRatio": 70.83333333333333
     },
     {
-        "appliedCrowdControlPerMinute": 0.0,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "downPerMinute": 0.0,
-        "durationInCombat": 1,
-        "evadePerMinute": 0.0,
-        "id": "今天吃菠菜.9572",
-        "opScore": 0.0,
-        "profession": "时空",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 79.3093,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 22.7392,
-        "score": 52.1,
-        "stabilityPerSecond": 1.815,
-        "surviveRatio": 0.8264462809917356
-    },
-    {
         "appliedCrowdControlPerMinute": 0.628792057363486,
         "blockPerMinute": 41.864313292884724,
         "cleansesInPerMinute": 5.261996690568119,

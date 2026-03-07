@@ -1,27 +1,5 @@
 [
     {
-        "appliedCrowdControlPerMinute": 0.0,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "downPerMinute": 0.0,
-        "durationInCombat": 1,
-        "evadePerMinute": 0.0,
-        "id": "黑凤梨.6189",
-        "opScore": 0.0,
-        "profession": "时空",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 60.9342,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 21.8495,
-        "score": 60.0,
-        "stabilityPerSecond": 4.263,
-        "surviveRatio": 1.1494252873563218
-    },
-    {
         "appliedCrowdControlPerMinute": 0.7416563658838072,
         "blockPerMinute": 41.1619283065513,
         "cleansesInPerMinute": 48.20766378244747,

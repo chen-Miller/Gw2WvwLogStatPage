@@ -263,28 +263,7 @@
         "stabilityPerSecond": 1.0801322314049588,
         "surviveRatio": 88.91115564462258
     },
-    {
-        "appliedCrowdControlPerMinute": 3.1578947368421053,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 113.6842105263158,
-        "deathPerMinute": 0.8695652173913044,
-        "deathRatio": 100.0,
-        "downPerMinute": 0.8695652173913044,
-        "durationInCombat": 19,
-        "evadePerMinute": 0.0,
-        "id": "铁血狂战.9832",
-        "opScore": 0.0,
-        "profession": "诗人",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 31.46,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 5.292,
-        "score": 35.21739130434782,
-        "stabilityPerSecond": 3.751421052631579,
-        "surviveRatio": 27.536231884057973
-    },
+
     {
         "appliedCrowdControlPerMinute": 5.287994448299792,
         "blockPerMinute": 39.805690492713396,
@@ -878,28 +857,6 @@
         "score": 64.10414602210635,
         "stabilityPerSecond": 0.06813879003558718,
         "surviveRatio": 80.45812455261274
-    },
-    {
-        "appliedCrowdControlPerMinute": 0.0,
-        "blockPerMinute": 0.0,
-        "cleansesInPerMinute": 0.0,
-        "deathPerMinute": 0.0,
-        "deathRatio": 0.0,
-        "downPerMinute": 0.0,
-        "durationInCombat": 1,
-        "evadePerMinute": 0.0,
-        "id": "leangiap.9476",
-        "opScore": 0.0,
-        "profession": "死灵",
-        "quicknessPerSecond": 0.0,
-        "regenerationUptime": 70.5578,
-        "resPerMinute": 0.0,
-        "resistancePerSecond": 0.0,
-        "ripsInPerMinute": 0.0,
-        "riteUptime": 16.3114,
-        "score": 40.0,
-        "stabilityPerSecond": 0.0,
-        "surviveRatio": 0.9009009009009009
     },
     {
         "deathPerMinute": 0.04008016032064128,
